@@ -13,5 +13,9 @@ main {
     height: 100%;
     width: 100%;
     background-image: url(ironman.jpeg);
-    color: orange;
-    }
+    color: red;
+    text-align: center;
+    font-size: 20px;
+font-family: sans-serif;}
+h1{background-color: aqua; border: 15px solid rgb(240, 240, 13); width: fit-content;
+margin-left: 45%; padding:10px;}
